@@ -1,0 +1,389 @@
+[1] Rossouw JE, Anderson GL, Prentice RL, et al. "Risks and benefits of estrogen plus progestin in healthy postmenopausal women: principal results from the Women's Health Initiative randomized controlled trial." *JAMA*. 2002;288(3):321-333. doi:10.1001/jama.288.3.321
+[2] Manson JE, Hsia J, Johnson KC, et al. "Estrogen plus progestin and the risk of coronary heart disease." *N Engl J Med*. 2003;349:523-534. doi:10.1056/NEJMoa030808
+[3] Chlebowski RT, Anderson GL, Aragaki AK, et al. "Association of Menopausal Hormone Therapy With Breast Cancer Incidence and Mortality During Long-term Follow-up of the Women's Health Initiative Randomized Clinical Trials." *JAMA*. 2020;324(4):369-380. doi:10.1001/jama.2020.9482
+[4] Manson JE, Aragaki AK, Rossouw JE, et al. "Menopausal Hormone Therapy and Long-term All-Cause and Cause-Specific Mortality: The Women's Health Initiative Randomized Trials." *JAMA*. 2017;318(10):927-938. doi:10.1001/jama.2017.11217
+[5] Manson JE, Chlebowski RT, Stefanick ML, et al. "Menopausal hormone therapy and health outcomes during the intervention and extended poststopping phases of the Women's Health Initiative randomized trials." *JAMA*. 2013;310(13):1353-1368. doi:10.1001/jama.2013.278040
+[6] Stute P, Marsden J, Salih N, Cagnacci A. "Reappraising 21 years of the WHI study: Putting the findings in context for clinical practice." *Maturitas*. 2023;174:8-13. doi:10.1016/j.maturitas.2023.04.271
+[282] Chlebowski RT, Anderson GL, Aragaki AK, et al. "Association of Menopausal Hormone Therapy With Breast Cancer Incidence and Mortality During Long-term Follow-up of the Women's Health Initiative Randomized Clinical Trials." *JAMA*. 2020;324(4):369-380. doi:10.1001/jama.2020.9482
+[283] Chlebowski RT, Aragaki AK, Pan K, et al. "Breast cancer incidence and mortality by metabolic syndrome and obesity: The Women's Health Initiative." *Cancer*. 2024;130(18):3147-3156. doi:10.1002/cncr.35318
+[7] Fournier A, Berrino F, Riboli E, Avenel V, Clavel-Chapelon F. "Breast cancer risk in relation to different types of hormone replacement therapy in the E3N-EPIC cohort." *Int J Cancer*. 2005;114(3):448-454. doi:10.1002/ijc.20710
+[8] Fournier A, Berrino F, Clavel-Chapelon F. "Unequal risks for breast cancer associated with different hormone replacement therapies: results from the E3N cohort study." *Breast Cancer Res Treat*. 2008;107(1):103-111. doi:10.1007/s10549-007-9523-x
+[9] Fournier A, Fabre A, Mesrine S, et al. "Use of different postmenopausal hormone therapies and risk of histology- and hormone receptor-defined invasive breast cancer." *J Clin Oncol*. 2008;26(8):1260-1268. doi:10.1200/JCO.2007.13.4338
+[284] Fornili M, Perduca V, Fournier A, et al. "Association between menopausal hormone therapy, mammographic density and breast cancer risk: results from the E3N cohort study." *Breast Cancer Research*. 2021;23(1):47. doi:10.1186/s13058-021-01425-8
+[10] Greendale GA, Sternfeld B, Huang M, et al. "The menopause transition and women's health at midlife: a progress report from the Study of Women's Health Across the Nation (SWAN)." *Menopause*. 2019;26(10):1213-1227. doi:10.1097/GME.0000000000001348
+[11] Avis NE, Crawford SL, Greendale G, et al. "Duration of menopausal vasomotor symptoms over the menopause transition." *JAMA Intern Med*. 2015;175(4):531-539. doi:10.1001/jamainternmed.2014.8063
+[12] Tepper PG, Brooks MM, Randolph JF Jr, et al. "Characterizing the trajectories of vasomotor symptoms across the menopausal transition." *Menopause*. 2016;23(10):1067-1074. doi:10.1097/GME.0000000000000676
+[13] Kravitz HM, Zhao X, Bromberger JT, et al. "Sleep disturbance during the menopausal transition in a multi-ethnic community sample of women." *Sleep*. 2008;31(7):979-990. doi:10.5665/sleep/31.7.979
+[14] Bromberger JT, Kravitz HM, Chang Y, et al. "Does risk for anxiety increase during the menopausal transition? Study of Women's Health Across the Nation." *Menopause*. 2013;20(5):488-495. doi:10.1097/GME.0b013e3182730599
+[15] Greendale GA, Huang MH, Wight RG, et al. "Effects of the menopause transition and hormone use on cognitive performance in midlife women." *Neurology*. 2009;72(21):1850-1857. doi:10.1212/WNL.0b013e3181a71193
+[16] Karlamangla AS, Burnett-Bowie SM, Crandall CJ. "Bone Health During the Menopause Transition and Beyond." *Obstet Gynecol Clin North Am*. 2018;45(4):695-708. doi:10.1016/j.ogc.2018.07.012
+[17] El Khoudary SR, Greendale G, Crawford SL, et al. "The menopause transition and women's health at midlife: a progress report from the Study of Women's Health Across the Nation (SWAN)." *Menopause*. 2019;26(10):1213-1227. doi:10.1097/GME.0000000000001348
+[264] Gibson CJ, Thurston RC, El Khoudary SR, et al. "Cortisol profiles and vasomotor symptoms in the Study of Women's Health Across the Nation." *Menopause*. 2020;27(6):677-684.
+[18] Harman SM, Black DM, Naftolin F, et al. "Arterial imaging outcomes and cardiovascular risk factors in recently menopausal women: a randomized trial." *Ann Intern Med*. 2014;161(4):249-260. doi:10.7326/M14-0353
+[19] Gleason CE, Dowling NM, Wharton W, et al. "Effects of Hormone Therapy on Cognition and Mood in Recently Postmenopausal Women: Findings from the Randomized, Controlled KEEPS-Cognitive and Affective Study." *PLoS Med*. 2015;12(6):e1001833. doi:10.1371/journal.pmed.1001833
+[20] Taylor HS, Tal A, Engel SM, et al. "Effects of Oral vs Transdermal Estrogen Therapy on Sexual Function in Early Postmenopause: Ancillary Study of the Kronos Early Estrogen Prevention Study (KEEPS)." *JAMA Intern Med*. 2017;177(10):1471-1479. doi:10.1001/jamainternmed.2017.3877
+[21] Miller VM, Naftolin F, Asthana S, et al. "The Kronos Early Estrogen Prevention Study (KEEPS): what have we learned?" *Menopause*. 2019;26(9):1071-1084. doi:10.1097/GME.0000000000001326
+[22] Hodis HN, Mack WJ, Henderson VW, et al. "Vascular Effects of Early versus Late Postmenopausal Treatment with Estradiol." *N Engl J Med*. 2016;374(13):1221-1231. doi:10.1056/NEJMoa1505241
+[23] Hodis HN, Mack WJ, Shoupe D, et al. "Methods and baseline cardiovascular data from the Early versus Late Intervention Trial with Estradiol testing the menopausal hormone timing hypothesis." *Menopause*. 2015;22(4):391-401. doi:10.1097/GME.0000000000000343
+[24] Henderson VW, St John JA, Hodis HN, et al. "Cognitive effects of estradiol after menopause: A randomized trial of the timing hypothesis." *Neurology*. 2016;87(7):699-708. doi:10.1212/WNL.0000000000002980
+[123] Schierbeck LL, Rejnmark L, Tofteng CL, et al. "Effect of hormone replacement therapy on cardiovascular events in recently postmenopausal women: randomised trial." *BMJ*. 2012;345:e6409. doi:10.1136/bmj.e6409
+[124] Boardman HMP, Hartley L, Eisinga A, et al. "Hormone therapy for preventing cardiovascular disease in post-menopausal women." *Cochrane Database Syst Rev*. 2015;3:CD002229. doi:10.1002/14651858.CD002229.pub4
+[125] Løkkegaard E, Andreasen AH, Jacobsen RK, et al. "Hormone therapy and risk of myocardial infarction: a national register study." *Eur Heart J*. 2008;29(21):2660-2668. doi:10.1093/eurheartj/ehn408
+[25] Kuhl H. "Pharmacology of estrogens and progestogens: influence of different routes of administration." *Climacteric*. 2005;8 Suppl 1:3-63. doi:10.1080/13697130500148875
+[26] Stanczyk FZ, Archer DF, Bhavnani BR. "Ethinyl estradiol and 17β-estradiol in combined oral contraceptives: pharmacokinetics, pharmacodynamics and risk assessment." *Contraception*. 2013;87(6):706-727. doi:10.1016/j.contraception.2012.12.011
+[27] Sitruk-Ware R, Nath A. "Characteristics and metabolic effects of estrogen and progestins contained in oral contraceptive pills." *Best Pract Res Clin Endocrinol Metab*. 2013;27(1):13-24. doi:10.1016/j.beem.2012.09.004
+[28] Canonico M, Oger E, Plu-Bureau G, et al. "Hormone therapy and venous thromboembolism among postmenopausal women: impact of the route of estrogen administration and progestogens: the ESTHER study." *Circulation*. 2007;115(7):840-845. doi:10.1161/CIRCULATIONAHA.106.642280
+[29] Sweetland S, Beral V, Balkwill A, et al. "Venous thromboembolism risk in relation to use of different types of postmenopausal hormone therapy in a large prospective study." *J Thromb Haemost*. 2012;10(11):2277-2286. doi:10.1111/j.1538-7836.2012.04919.x
+[30] Vinogradova Y, Coupland C, Hippisley-Cox J. "Use of hormone replacement therapy and risk of venous thromboembolism: nested case-control studies using the QResearch and CPRD databases." *BMJ*. 2019;364:k4810. doi:10.1136/bmj.k4810
+[31] Scarabin PY. "Progestogens and venous thromboembolism in menopausal women: an updated oral versus transdermal estrogen meta-analysis." *Climacteric*. 2018;21(4):341-345. doi:10.1080/13697137.2018.1446931
+[32] Rovinski D, Ramos RB, Fighera TM, Casanova GK, Spritzer PM. "Risk of venous thromboembolism events in postmenopausal women using oral versus non-oral hormone therapy: A systematic review and meta-analysis." *Thromb Res*. 2018;168:83-95. doi:10.1016/j.thromres.2018.06.014
+[254] Straczek C, Oger E, Yon de Jonage-Canonico MB, et al. "Prothrombotic mutations, hormone therapy, and venous thromboembolism among postmenopausal women: impact of the route of estrogen administration." *Circulation*. 2005;112(22):3495-3500.
+[273] Oral contraceptive VTE risk by age. PMC4389282. OC-associated VTE epidemiology.
+[274] ASRM Practice Committee. Oral contraceptive VTE risk. PMC4444976.
+[285] Hicks A, Robson D, Tellis B, Smith S, Dunkley S, Baber R. "Safety of menopause hormone therapy in postmenopausal women at higher risk of venous thromboembolism: a systematic review." *Climacteric*. 2025;28(5):497-509. doi:10.1080/13697137.2025.2503874
+[286] Howells P, Hussain S, Hulme E, et al. "The use of HRT containing transdermal estradiol in women with a personal history of venous or arterial thromboembolism: A consecutive series of 115 cases." *Post Reproductive Health*. 2025;31(4):249-253. doi:10.1177/20533691251369205
+[287] CDA-AMC (CADTH). "Comparative Evidence Between Transdermal and Oral Menopausal Hormone Therapy." *Canadian Journal of Health Technologies*. 2025.
+[288] Middeldorp S, Nieuwlaat R, Baumann Kreuziger L, et al. "American Society of Hematology 2023 guidelines for management of venous thromboembolism: thrombophilia testing." *Blood Advances*. 2023;7(22):7101-7138. doi:10.1182/bloodadvances.2023010177
+[289] Morris G, Talaulikar V. "Hormone replacement therapy in women with history of thrombosis or a thrombophilia." *Post Reproductive Health*. 2023;29(1):33-41. doi:10.1177/20533691221148036
+[290] Rosemann A, Witzel I, Meyer MR, et al. "Diagnosis and treatment of venous thrombosis (Part 2)." *Praxis*. 2024;113(8):202-209. doi:10.23785/PRAXIS.2024.08.005
+[291] Skeith L, Bates SM. "Estrogen, progestin, and beyond: thrombotic risk and contraceptive choices." *Hematology Am Soc Hematol Educ Program*. 2024;2024(1):644-651. doi:10.1182/hematology.2024000591
+[292] Panay N, Nappi RE, Stute P, et al. "Oral estradiol/micronized progesterone may be associated with lower risk of venous thromboembolism compared with conjugated equine estrogens/medroxyprogesterone acetate in real-world practice." *Maturitas*. 2023;172:23-31. doi:10.1016/j.maturitas.2023.04.004
+[293] Binkowska M, Jakimiuk A, Paszkowski T, et al. "Risk of venous thromboembolism during the use of oral estrogen-progestogen hormone therapies in light of most recent research findings." *Menopause Review*. 2022;21(3):197-199. doi:10.5114/pm.2022.119861
+[294] Foschi M, Groccia G, Rusce ML, et al. "Estradiol and Micronized Progesterone: Narrative Review." *Journal of Clinical Medicine*. 2025;14(20):7328. doi:10.3390/jcm14207328
+[295] Russell MD, Bechman K, Gibson M, et al. "Risk of venous thromboembolism in people with RA: a population-based study in the UK." *Rheumatology*. 2025;64(12):6224-6232. doi:10.1093/rheumatology/keaf430
+[296] Xu L, Hrybouski S, Xu Y, Ebrahimi R. "Association of menopausal hormone therapy with incident cardiovascular disease in women veterans." *European Heart Journal - Quality of Care & Clinical Outcomes*. 2026;12(2):261-270. doi:10.1093/ehjqcco/qcaf136
+[297] Scheres LJJ, Middeldorp S. "Hormone-related thrombosis: duration of anticoagulation, risk of recurrence, and the role of hypercoagulability testing." *Hematology Am Soc Hematol Educ Program*. 2024;2024(1):664-671. doi:10.1182/hematology.2024000593
+[33] Africander D, Verhoog N, Hapgood JP. "Molecular mechanisms of steroid receptor-mediated actions by synthetic progestins used in HRT and contraception." *Steroids*. 2011;76(7):636-652. doi:10.1016/j.steroids.2011.03.001
+[34] Schindler AE, Campagnoli C, Druckmann R, et al. "Classification and pharmacology of progestins." *Maturitas*. 2008;61(1-2):171-180. doi:10.1016/j.maturitas.2008.11.013
+[271] Progestin receptor binding profiles. PMC5740213. Review of synthetic progestin receptor activity.
+[272] Progestin pharmacology. PMC3610676. Review of progestin molecular mechanisms.
+[35] Brinton RD, Thompson RF, Foy MR, et al. "Progesterone receptors: form and function in brain." *Front Neuroendocrinol*. 2008;29(2):313-339. doi:10.1016/j.yfrne.2008.02.001
+[36] Schumacher M, Guennoun R, Robert F, et al. "Local synthesis and dual actions of progesterone in the nervous system: neuroprotection and myelination." *Growth Horm IGF Res*. 2004;14 Suppl A:S18-33. doi:10.1016/j.ghir.2004.03.007
+[37] Singh M, Su C. "Progesterone and neuroprotection." *Horm Behav*. 2013;63(2):284-290. doi:10.1016/j.yhbeh.2012.06.003
+[38] Irwin RW, Yao J, Hamilton RT, Cadenas E, Brinton RD, Nilsen J. "Progesterone and estrogen regulate oxidative metabolism in brain mitochondria." *Endocrinology*. 2008;149(6):3167-3175. doi:10.1210/en.2007-1227
+[39] Nilsen J, Brinton RD. "Divergent impact of progesterone and medroxyprogesterone acetate (Provera) on nuclear mitogen-activated protein kinase signaling." *Proc Natl Acad Sci U S A*. 2003;100(18):10506-10511. doi:10.1073/pnas.1334098100
+[40] Brinton RD. "Neurosteroids as regenerative agents in the brain: therapeutic implications." *Nat Rev Endocrinol*. 2013;9(4):241-250. doi:10.1038/nrendo.2013.31
+[41] Melcangi RC, Panzica G, Garcia-Segura LM. "Neuroactive steroids: focus on human brain." *Neuroscience*. 2011;191:1-5. doi:10.1016/j.neuroscience.2011.06.024
+[198] Bencker C, Gschwandtner L, Nayman S, et al. "Progestagens and progesterone receptor modulation: Effects on the brain, mood, stress, and cognition in females." *Front Neuroendocrinol*. 2024;76:101160. doi:10.1016/j.yfrne.2024.101160
+[199] Del Río JP, Alliende MI, Molina N, et al. "Steroid Hormones and Their Action in Women's Brains: The Importance of Hormonal Balance." *Front Public Health*. 2018;6:141. doi:10.3389/fpubh.2018.00141
+[200] Fauser BCJM, Laven JSE, Tarlatzis BC, et al. "Sex steroid hormones and reproductive disorders: impact on women's health." *Reprod Sci*. 2011;18(8):702-712. doi:10.1177/1933719111405068
+[201] Yang J, Zhang L, Cao LL, et al. "MicroRNA-99a is a Potential Target for Regulating Hypothalamic Synaptic Plasticity in the Peri/Postmenopausal Depression Model." *Cells*. 2019;8(9):1081. doi:10.3390/cells8091081
+[253] Nilsen J, Brinton RD. "Impact of progestins on estrogen-induced neuroprotection: synergy by progesterone and 19-norprogesterone and antagonism by medroxyprogesterone acetate." *Endocrinology*. 2002;143(1):205-212.
+[263] Berent-Spillson A, Persad CC, Love T, et al. "Distinct cognitive effects of estrogen and progesterone in menopausal women." *Psychoneuroendocrinology*. 2015;59:25-36.
+[42] Neubauer H, Ma Q, Zhou J, et al. "Possible role of PGRMC1 in breast cancer development." *Climacteric*. 2013;16(5):509-513. doi:10.3109/13697137.2013.800038
+[43] Trabert B, Sherman ME, Kannan N, Stanczyk FZ. "Progesterone and Breast Cancer." *Endocr Rev*. 2020;41(2):320-344. doi:10.1210/endrev/bnz001
+[44] Mohammed H, Russell IA, Stark R, et al. "Progesterone receptor modulates ERα action in breast cancer." *Nature*. 2015;523(7560):313-317. doi:10.1038/nature14583
+[45] Carroll JS, Hickey TE, Tarulli GA, Williams M, Tilley WD. "Deciphering the divergent roles of progestogens in breast cancer." *Nat Rev Cancer*. 2017;17(1):54-64. doi:10.1038/nrc.2016.116
+[255] Rebbeck TR, Friebel T, Wagner T, et al. "Effect of short-term hormone replacement therapy on breast cancer risk reduction after bilateral prophylactic oophorectomy in BRCA1 and BRCA2 mutation carriers: the PROSE study group." *J Clin Oncol*. 2005;23(31):7804-7810.
+[256] Gabriel CA, Tigges-Cardwell J, Grana G, et al. "Use of total abdominal hysterectomy and hormone replacement therapy in BRCA1 and BRCA2 mutation carriers undergoing risk-reducing salpingo-oophorectomy." *Fam Cancer*. 2009;8(1):23-28.
+[257] Marchetti C, De Felice F, Boccia S, et al. "Hormone replacement therapy after prophylactic risk-reducing salpingo-oophorectomy and breast cancer risk in BRCA1 and BRCA2 mutation carriers: a meta-analysis." *Crit Rev Oncol Hematol*. 2018;132:111-121.
+[298] Siitonen H, Joensuu J, Savolainen-Peltonen H, et al. "Update of the impact of menopausal hormone therapy on breast cancer risk." *European Journal of Cancer*. 2025;220:115340. doi:10.1016/j.ejca.2025.115340
+[299] Collaborative Group on Hormonal Factors in Breast Cancer. "Type and timing of menopausal hormone therapy and breast cancer risk: individual participant meta-analysis of the worldwide epidemiological evidence." *Lancet*. 2019;394(10204):1159-1168. doi:10.1016/S0140-6736(19)31709-X
+[300] Stoer NC, Vangen S, Singh D, et al. "Menopausal hormone therapy and breast cancer risk: a population-based cohort study of 1.3 million women in Norway." *British Journal of Cancer*. 2024;131(1):126-137. doi:10.1038/s41416-024-02590-1
+[301] Kim J, Munster PN. "Estrogens and breast cancer." *Annals of Oncology*. 2024;36(2):134-148. doi:10.1016/j.annonc.2024.10.824
+[302] Huber D, Seitz S, Kast K, Emons G, Ortmann O. "Hormone replacement therapy in BRCA mutation carriers and risk of ovarian, endometrial, and breast cancer: a systematic review." *Journal of Cancer Research and Clinical Oncology*. 2021;147(7):2035-2045. doi:10.1007/s00432-021-03629-z
+[303] Kim HY, Park J, Moon SJ, et al. "Short-term Impact of Hormone Replacement Therapy on Risk of Breast Cancer in BRCA Mutation Carriers: A Nationwide Study in South Korea." *Cancer Research and Treatment*. 2023;56(1):143-148. doi:10.4143/crt.2023.653
+[304] Jorg I, Chronas D. "Hormonal management after risk-reducing surgery in BRCA-mutated triple-negative breast cancer survivors." *Journal of Cancer Research and Clinical Oncology*. 2026;152(3). doi:10.1007/s00432-026-06425-9
+[305] Donovitz G, Cotten M. "Breast Cancer Incidence Reduction in Women Treated with Subcutaneous Testosterone." *European Journal of Breast Health*. 2021;17(2):150-156. doi:10.4274/ejbh.galenos.2021.6213
+[306] Donovitz GS. "A Personal Prospective on Testosterone Therapy in Women, What We Know in 2022." *Journal of Personalized Medicine*. 2022;12(8):1194. doi:10.3390/jpm12081194
+[307] Sohi I, Rehm J, Saab M, et al. "Alcoholic beverage consumption and female breast cancer risk: A systematic review and meta-analysis of prospective cohort studies." *Alcohol, Clinical & Experimental Research*. 2024;48(12):2222-2241. doi:10.1111/acer.15493
+[308] Floud S, Hermon C, Simpson RF, Reeves GK. "Alcohol consumption and cancer incidence in women: interaction with smoking, body mass index and menopausal hormone therapy." *BMC Cancer*. 2023;23(1):758. doi:10.1186/s12885-023-11184-8
+[275] AUA/SUFU/AUGS. "Vaginal estrogen safety for genitourinary syndrome of menopause in breast cancer survivors." *AUA News*. 2024.
+[276] Cancer Treatment Reviews. "Safety of topical estrogen therapy during adjuvant endocrine therapy for breast cancer: a systematic review and meta-analysis." 2025.
+[309] Beste ME, Kaunitz AM, McKinney JA, Sanchez-Ramos L. "Vaginal estrogen use in breast cancer survivors: a systematic review and meta-analysis of recurrence and mortality risks." *American Journal of Obstetrics and Gynecology*. 2024;232(3):262-270.e1. doi:10.1016/j.ajog.2024.10.054
+[310] Coronado PJ, Gomez A, Iglesias E, et al. "Eligibility criteria for using menopausal hormone therapy in breast cancer survivors: a safety report based on a systematic review and meta-analysis." *Menopause*. 2024;31(3):234-242. doi:10.1097/GME.0000000000002317
+[311] Sanserino K. "Menopausal hormone therapy and breast cancer: risk and management." *Current Opinion in Obstetrics & Gynecology*. 2026;38(2):117-122. doi:10.1097/GCO.0000000000001094
+[46] Davis SR, Baber R, Panay N, et al. "Global Consensus Position Statement on the Use of Testosterone Therapy for Women." *J Clin Endocrinol Metab*. 2019;104(10):4660-4666. doi:10.1210/jc.2019-01603
+[47] Islam RM, Bell RJ, Green S, Page MJ, Davis SR. "Safety and efficacy of testosterone for women: a systematic review and meta-analysis of randomised controlled trial data." *Lancet Diabetes Endocrinol*. 2019;7(10):754-766. doi:10.1016/S2213-8587(19)30189-5
+[48] Davis SR, Moreau M, Kroll R, et al. "Testosterone for low libido in postmenopausal women not taking estrogen." *N Engl J Med*. 2008;359(19):2005-2017. doi:10.1056/NEJMoa0707302
+[49] Shifren JL, Braunstein GD, Simon JA, et al. "Transdermal testosterone treatment in women with impaired sexual function after oophorectomy." *N Engl J Med*. 2000;343(10):682-688. doi:10.1056/NEJM200009073431002
+[50] Goldstat R, Briganti E, Tran J, Wolfe R, Davis SR. "Transdermal testosterone therapy improves well-being, mood, and sexual function in premenopausal women." *Menopause*. 2003;10(5):390-398. doi:10.1097/01.GME.0000060256.03945.20
+[51] Panay N, Al-Azzawi F, Bouchard C, et al. "Testosterone treatment of HSDD in naturally menopausal women: the ADORE study." *Climacteric*. 2010;13(2):121-131. doi:10.3109/13697130903009024
+[52] Elraiyah T, Sonbol MB, Wang Z, et al. "Clinical review: The benefits and harms of systemic testosterone therapy in postmenopausal women with normal adrenal function: a systematic review and meta-analysis." *J Clin Endocrinol Metab*. 2014;99(10):3543-3550. doi:10.1210/jc.2014-2262
+[53] Achilli C, Pundir J, Ramanathan P, Sabatini L, Hamoda H, Panay N. "Efficacy and safety of transdermal testosterone in postmenopausal women with hypoactive sexual desire disorder: a systematic review and meta-analysis." *Fertil Steril*. 2017;107(2):475-482.e15. doi:10.1016/j.fertnstert.2016.10.028
+[247] Davis SR, Wahlin-Jacobsen S. "Testosterone in women—the clinical significance." *Lancet Diabetes Endocrinol*. 2015;3(12):980-992.
+[248] Sinha-Hikim I, et al. "Testosterone reference ranges in normally cycling healthy premenopausal women." *J Sex Med*. 2011;8(10):2924-2934.
+[249] British Menopause Society. "Testosterone replacement in menopause." BMS Consensus Statement. 2022.
+[312] Rowen TS, Abdo C, El Kak F, et al. "Evaluation and management of hypoactive sexual desire disorder in women. Recommendations from the 5th International Consultation on Sexual Medicine (ICSM 2024)." *Sexual Medicine Reviews*. 2026;14(1). doi:10.1093/sxmrev/qeaf057
+[313] Pilnik S, Belardo A, Marchesan LB, et al. "Androgen therapy in midlife and older women: a position statement of the Latin American Association of Gynecological Endocrinology (ALEG)." *Climacteric*. 2025;28(5):529-536. doi:10.1080/13697137.2025.2548805
+[314] Kling JM. "Testosterone for the Treatment of Hypoactive Sexual Desire Disorder in Perimenopausal and Postmenopausal Women." *Obstetrics and Gynecology*. 2025;146(3):341-349. doi:10.1097/AOG.0000000000006015
+[315] Davis SR. "Not just sex: other roles for testosterone in women." *Climacteric*. 2025;28(4):373-376. doi:10.1080/13697137.2024.2445301
+[316] Parish SJ, Simon JA, Davis SR, et al. "International Society for the Study of Women's Sexual Health Clinical Practice Guideline for the Use of Systemic Testosterone for Hypoactive Sexual Desire Disorder in Women." *Journal of Sexual Medicine*. 2021;18(5):849-867. doi:10.1016/j.jsxm.2020.10.009
+[317] Pinto da Costa Viana D, Jacobsen L, Gabriel LH, et al. "Testosterone Pellets in Women: Revisiting Safety and Clinical Outcomes." *Cureus*. 2025;17(10):e94442. doi:10.7759/cureus.94442
+[318] Hernandez BS, Saffati G, Lowrey KA, et al. "Long-term testosterone pellet insertion in women with low libido shows no evidence of erythrocytosis and a minimal side effect profile." *Translational Andrology and Urology*. 2025;14(7):1842-1848. doi:10.21037/tau-2025-51
+[319] Aviva Bio Inc. "AVA-291 (d3-Testosterone): FDA Type B Meeting and Preclinical Data." Announced January 26, 2026.
+[320] Glynne S, Kamal A, Kamel AM, Reisel D, Newson L. "Effect of transdermal testosterone therapy on mood and cognitive symptoms in peri- and postmenopausal women: a pilot study." *Archives of Women's Mental Health*. 2024;28(3):541-550. doi:10.1007/s00737-024-01513-6
+[321] Agrawal P, Singh SM, Hsueh J, et al. "Testosterone therapy in females is not associated with increased cardiovascular or breast cancer risk: a claims database analysis." *Journal of Sexual Medicine*. 2024;21(5):414-419. doi:10.1093/jsxmed/qdae032
+[322] Viana DPDC, Camara LC, Alto LSM. "Cardiovascular mortality associated with testosterone therapy in cisgender women and transgender men: a systematic review." *Frontiers in Endocrinology*. 2026.
+[323] Dias JP, Dobs AS. "Will Selective Androgen Receptor Modulators Ever Reach The Clinic?" *Journal of Clinical Endocrinology & Metabolism*. 2026. doi:10.1210/clinem/dgaf700
+[131] Portman DJ, Gass ML; Vulvovaginal Atrophy Terminology Consensus Conference Panel. "Genitourinary syndrome of menopause: new terminology for vulvovaginal atrophy from the International Society for the Study of Women's Sexual Health and the North American Menopause Society." *Menopause*. 2014;21(10):1063-1068. doi:10.1097/GME.0000000000000329
+[132] Nappi RE, Palacios S, Panay N, Particco M, Krychman ML. "Vulvar and vaginal atrophy in four European countries: evidence from the European REVIVE Survey." *Climacteric*. 2016;19(2):188-197. doi:10.3109/13697137.2015.1107039
+[133] Kingsberg SA, Wysocki S, Magnus L, Krychman ML. "Vulvar and vaginal atrophy in postmenopausal women: findings from the REVIVE (REal Women's VIews of Treatment Options for Menopausal Vaginal ChangEs) survey." *J Sex Med*. 2013;10(7):1790-1799. doi:10.1111/jsm.12190
+[134] The NAMS 2020 GSM Position Statement Editorial Panel. "The 2020 genitourinary syndrome of menopause position statement of The North American Menopause Society." *Menopause*. 2020;27(9):976-992. doi:10.1097/GME.0000000000001609
+[135] Lethaby A, Ayeleke RO, Roberts H. "Local oestrogen for vaginal atrophy in postmenopausal women." *Cochrane Database Syst Rev*. 2016;(8):CD001500. doi:10.1002/14651858.CD001500.pub3
+[324] Lemos MJ, Queiroz LF, Diniz AF, et al. "Intravaginal dehydroepiandrosterone for the treatment of vulvovaginal atrophy: a systematic review and meta-analysis." *Menopause*. 2026. doi:10.1097/GME.0000000000002736
+[325] Misasi G, Russo E, Montt Guevara MM, et al. "Effects of vaginal DHEA on stress urinary incontinence in postmenopausal women with vulvovaginal atrophy." *Maturitas*. 2025;196:108232. doi:10.1016/j.maturitas.2025.108232
+[326] Luzarraga Aznar A, Elyashiv O, Dababou S, et al. "Hormone replacement therapy in gynecologic cancer: oncologic safety and alternative therapies." *International Journal of Gynecological Cancer*. 2025;36(2):102809. doi:10.1016/j.ijgc.2025.102809
+[327] Danan ER, Sowerby C, Ullman KE, et al. "Hormonal Treatments and Vaginal Moisturizers for Genitourinary Syndrome of Menopause: A Systematic Review." *Annals of Internal Medicine*. 2024;177(10):1400-1414. doi:10.7326/ANNALS-24-00610
+[328] AUA/SUFU/AUGS. "Genitourinary Syndrome of Menopause: AUA/SUFU/AUGS Guideline." 2025.
+[54] L'Hermite M. "HRT optimization, using transdermal estradiol plus micronized progesterone, a safer HRT." *Climacteric*. 2013;16 Suppl 1:44-53. doi:10.3109/13697137.2013.808563
+[55] Stute P, Neulen J, Wildt L. "The impact of micronized progesterone on the endometrium: a systematic review." *Climacteric*. 2016;19(4):316-328. doi:10.1080/13697137.2016.1187123
+[56] Prior JC. "Progesterone for the prevention and treatment of osteoporosis in women." *Climacteric*. 2018;21(4):366-374. doi:10.1080/13697137.2018.1467400
+[57] Asi N, Mohammed K, Haydour Q, et al. "Progesterone vs. synthetic progestins and the risk of breast cancer: a systematic review and meta-analysis." *Syst Rev*. 2016;5(1):121. doi:10.1186/s13643-016-0294-5
+[58] Stute P, Wildt L, Neulen J. "The impact of micronized progesterone on breast cancer risk: a systematic review." *Climacteric*. 2018;21(2):111-122. doi:10.1080/13697137.2017.1421925
+[59] Mirkin S. "Evidence on the use of progesterone in menopausal hormone therapy." *Climacteric*. 2018;21(4):346-354. doi:10.1080/13697137.2018.1455657
+[60] Davey DA. "Menopausal hormone therapy: a better and safer future." *Climacteric*. 2018;21(5):454-461. doi:10.1080/13697137.2018.1439915
+[61] Lobo RA. "Hormone-replacement therapy: current thinking." *Nat Rev Endocrinol*. 2017;13(4):220-231. doi:10.1038/nrendo.2016.164
+[62] Stuenkel CA, Davis SR, Gompel A, et al. "Treatment of Symptoms of the Menopause: An Endocrine Society Clinical Practice Guideline." *J Clin Endocrinol Metab*. 2015;100(11):3975-4011. doi:10.1210/jc.2015-2236
+[63] Pinkerton JV, Sánchez Aguirre F, Blake J, et al. "The 2017 hormone therapy position statement of The North American Menopause Society." *Menopause*. 2017;24(7):728-753. doi:10.1097/GME.0000000000000921
+[210] Foschi M, Groccia G, Rusce ML, et al. "Estradiol and Micronized Progesterone: A Narrative Review About Their Use as Hormone Replacement Therapy." *J Clin Med*. 2025;14(20):7328. doi:10.3390/jcm14207328
+[211] Hipolito Rodrigues MA, Gompel A. "Micronized progesterone, progestins, and menopause hormone therapy." *Women Health*. 2020;61(1):3-14. doi:10.1080/03630242.2020.1824956
+[212] Memi E, Pavli P, Papagianni M, et al. "Diagnostic and therapeutic use of oral micronized progesterone in endocrinology." *Rev Endocr Metab Disord*. 2024;25(4):751-772. doi:10.1007/s11154-024-09882-0
+[213] Ylikorkala O, Joensuu JM, Siitonen H, Mikkola TS. "Progestogens in Menopausal Hormone Therapy: A Double-Edged Sword." *Semin Reprod Med*. 2025;43(2):145-153. doi:10.1055/s-0045-1809186
+[214] Rozenberg S, Di Pietrantonio V, Vandromme J, Gilles C. "Menopausal hormone therapy and breast cancer risk." *Best Pract Res Clin Endocrinol Metab*. 2021;35(6):101577. doi:10.1016/j.beem.2021.101577
+[215] Gompel A. "Progesterone, progestins and the endometrium in perimenopause and in menopausal hormone therapy." *Climacteric*. 2018;21(4):321-325. doi:10.1080/13697137.2018.1446932
+[216] Abenhaim HA, Suissa S, Azoulay L, et al. "Menopausal Hormone Therapy Formulation and Breast Cancer Risk." *Obstet Gynecol*. 2022;139(6):1103-1110. doi:10.1097/AOG.0000000000004723
+[329] Arnautu AM, Nimigean VR, Nacea-Radu CA, Tilici DM, Paun DL. "Menopausal Hormone Therapy: Risks, Benefits and Emerging Options: A Narrative Review." *International Journal of Molecular Sciences*. 2025;26(22):11098. doi:10.3390/ijms262211098
+[64] Stanczyk FZ. "All progestins are not created equal." *Steroids*. 2003;68(10-13):879-890. doi:10.1016/j.steroids.2003.08.003
+[65] Sitruk-Ware R. "New progestagens for contraceptive use." *Hum Reprod Update*. 2006;12(2):169-178. doi:10.1093/humupd/dmi046
+[66] Kuhl H. "Pharmacology of progestogens." *J Reprod Med Endocrinol*. 2011;8(Suppl 1):157-177.
+[67] Africander D, Louw R, Hapgood JP. "Investigating the anti-mineralocorticoid properties of synthetic progestins used in hormone therapy." *Biochem Biophys Res Commun*. 2013;433(3):305-310. doi:10.1016/j.bbrc.2013.02.086
+[68] Regidor PA. "Progesterone in Peri- and Postmenopause: A Review." *Geburtshilfe Frauenheilkd*. 2014;74(11):995-1002. doi:10.1055/s-0034-1383297
+[69] The NAMS 2017 Hormone Therapy Position Statement Advisory Panel. "The 2017 hormone therapy position statement of The North American Menopause Society." *Menopause*. 2017;24(7):728-753. doi:10.1097/GME.0000000000000921
+[70] Baber RJ, Panay N, Fenton A; IMS Writing Group. "2016 IMS Recommendations on women's midlife health and menopause hormone therapy." *Climacteric*. 2016;19(2):109-150. doi:10.3109/13697137.2015.1129166
+[71] Hamoda H, Panay N, Pedder H, Arya R, Savvas M. "The British Menopause Society & Women's Health Concern 2020 recommendations on hormone replacement therapy in menopausal women." *Post Reprod Health*. 2020;26(4):181-209. doi:10.1177/2053369120957514
+[72] National Institute for Health and Care Excellence (NICE). "Menopause: diagnosis and management." NICE guideline [NG23]. Updated December 2019.
+[73] Lambrinoudaki I, Paschou SA, Lumsden MA, et al. "Premature ovarian insufficiency: a toolkit for the primary care physician." *Climacteric*. 2021;24(5):425-437. doi:10.1080/13697137.2021.1948006
+[74] Santen RJ, Allred DC, Ardoin SP, et al. "Postmenopausal hormone therapy: an Endocrine Society scientific statement." *J Clin Endocrinol Metab*. 2010;95(7 Suppl 1):s1-s66. doi:10.1210/jc.2009-2509
+[75] Tremollieres F, Chabbert-Buffet N, Plu-Bureau G, et al. "Management of postmenopausal women: Collège National des Gynécologues et Obstétriciens Français (CNGOF) and Groupe d'Etude sur la Ménopause et le Vieillissement (GEMVi) clinical practice guidelines." *Maturitas*. 2022;157:1-10. doi:10.1016/j.maturitas.2021.10.005
+[76] Fait T, Fialova A, Pastor Z. "The use of estradiol metered-dose transdermal spray in clinical practice." *Climacteric*. 2018;21(6):549-553. doi:10.1080/13697137.2018.1504916
+[77] Pinkerton JV, Pickar JH. "Update on medical and regulatory issues pertaining to compounded and FDA-approved drugs, including hormone therapy." *Menopause*. 2016;23(2):215-223. doi:10.1097/GME.0000000000000523
+[78] Langer RD, Hodis HN, Lobo RA, Allison MA. "Hormone replacement therapy - where are we now?" *Climacteric*. 2021;24(1):3-10. doi:10.1080/13697137.2020.1851183
+[79] Stuenkel CA. "Menopausal Hormone Therapy: Current Considerations." *Endocrinol Metab Clin North Am*. 2015;44(3):565-585. doi:10.1016/j.ecl.2015.05.006
+[80] Rozenberg S, Vandromme J, Antoine C. "Postmenopausal hormone therapy: risks and benefits." *Nat Rev Endocrinol*. 2013;9(4):216-227. doi:10.1038/nrendo.2013.17
+[81] Boardman HMP, Hartley L, Eisinga A, et al. "Hormone therapy for preventing cardiovascular disease in post-menopausal women." *Cochrane Database Syst Rev*. 2015;(3):CD002229. doi:10.1002/14651858.CD002229.pub4
+[103] U.S. Food and Drug Administration. "FDA approves new drug to treat moderate to severe vasomotor symptoms due to menopause." FDA News Release. 2013.
+[104] U.S. Food and Drug Administration. "Menopause: Medicines to Help You." FDA Consumer Information. Updated 2023.
+[105] U.S. Food and Drug Administration. "Bio-identicals: Sorting Myths from Facts." FDA Consumer Update. 2008.
+[106] U.S. Food and Drug Administration. "FDA Drug Safety Communication: Update to ongoing safety review of Low-Dose Aspirin and Venous Thromboembolism." 2014.
+[107] U.S. Food and Drug Administration. "Approved Drug Products with Therapeutic Equivalence Evaluations (Orange Book)." FDA, 2024.
+[108] U.S. Food and Drug Administration. "FDA approves novel drug to treat moderate to severe hot flashes caused by menopause." FDA News Release. May 12, 2023.
+[181] Australasian Menopause Society. "AMS Information Sheets and Position Statements." 2025.
+[182] Ang SB, Lim ECP, Chern BSM, et al. "Asia-Pacific Menopause Federation Consensus Statement on the Management of Menopause 2024." *Menopause*. 2025;32(5):437-451. doi:10.1097/GME.0000000000002523
+[183] Magraith K, Stuckey B. "Management of menopause." *Aust Prescr*. 2023;46(3):60-67. doi:10.18773/austprescr.2023.018
+[184] American Society for Reproductive Medicine. "Evidence-based guideline: Premature Ovarian Insufficiency (2025)." *Fertil Steril*. 2025.
+[185] European Menopause and Andropause Society. "Global consensus recommendations on menopause in the workplace." *Maturitas*. 2021;149:46-50. doi:10.1016/j.maturitas.2021.05.001
+[217] Palacios S, Rebelo C, Casquilho A, et al. "POESIT recommendations on management of body-identical hormones in menopausal symptoms." *Climacteric*. 2024;27(4):340-350. doi:10.1080/13697137.2024.2368486
+[258] Arafah BM. "Increased need for thyroxine in women with hypothyroidism during estrogen therapy." *N Engl J Med*. 2001;344(23):1743-1749.
+[259] Kaminski P, Szymanski M, Wilk-Fraczek B, et al. "Effects of oral versus transdermal estradiol plus micronized progesterone on thyroid hormones, thyroxine-binding globulin, and thyroid volume in postmenopausal women." *Menopause*. 2021;28(12):1384-1389.
+[265] British Menopause Society. "BMS & WHC's 2023 Tools for Clinicians: Progestogens and Endometrial Protection." April 2023.
+[266] British Menopause Society. "BMS Statement on HRT Dosages." November 2024.
+[267] British Menopause Society. "BMS & WHC's 2025 Tools for Clinicians: Use of Incretin-Based Therapies in Women Using Hormone Replacement Therapy." April 2025.
+[330] U.S. Food and Drug Administration. "HHS Advances Women's Health, Removes Misleading FDA Warnings on Hormone Replacement Therapy." FDA Press Announcement, November 10, 2025.
+[331] U.S. Food and Drug Administration. "FDA Approves Labeling Changes to Menopausal Hormone Therapy Products." February 12, 2026.
+[332] International Menopause Society. "IMS recommendations and key messages on women's midlife health and menopause." *Climacteric*. 2025. doi:10.1080/13697137.2025.2585487
+[333] Panay N, Ang SB, Cheshire R, et al. "Menopause and MHT in 2024: addressing the key controversies, an International Menopause Society White Paper." *Climacteric*. 2024;27(5):441-457. doi:10.1080/13697137.2024.2394950
+[334] National Institute for Health and Care Excellence. "Menopause: identification and management [NG23]." Updated November 7, 2024.
+[335] Lumsden MA, et al. "European Society of Endocrinology clinical practice guideline for evaluation and management of menopause and the perimenopause." *European Journal of Endocrinology*. 2025;193(4):G49. doi:10.1093/ejendo/lvaf206
+[336] British Menopause Society. "BMS Consensus Statement: Non-hormonal-based treatments for menopausal symptoms." September 2024.
+[337] British Menopause Society. "Management of menopause for women with cardiovascular disease: Tool for Clinicians." December 2024. doi:10.1177/20533691241302040
+[338] The Menopause Society. "TMS Statement on Misinformation Surrounding Hormone Therapy." September 2024.
+[339] Kim Y, Cho MK, Chung YJ, et al. "The 2025 Menopausal Hormone Therapy Guidelines, Korean Society of Menopause." *Journal of Menopausal Medicine*. 2025;31(2):53-84. doi:10.6118/jmm.25103
+[340] BGCS-BMS. "Guidelines on Management of Menopausal Symptoms after Gynaecological Cancer." September 2024.
+[341] British Menopause Society. "BMS Tool for Clinicians: HRT preparations and equivalent alternatives." Updated January 2024.
+[342] IMS. "State of the art in menopause: current best practice approaches from the IMS World Congress 2024, Melbourne." *Climacteric*. 2025. doi:10.1080/13697137.2025.2457993
+[343] ACOG. "Practice Bulletin No. 141: Management of Menopausal Symptoms." Reaffirmed 2024.
+[344] U.S. Food and Drug Administration. FDA approval of elinzanetant (Lynkuet; Bayer) for moderate to severe vasomotor symptoms due to menopause. October 24, 2025.
+[345] FDA / Astellas. "Veozah (fezolinetant) prescribing information update and Boxed Warning." December 2024.
+[126] El Khoudary SR, Aggarwal B, Beckie TM, et al. "Menopause Transition and Cardiovascular Disease Risk: Implications for Timing of Early Prevention: A Scientific Statement From the American Heart Association." *Circulation*. 2020;142(25):e506-e532. doi:10.1161/CIR.0000000000000912
+[127] Muka T, Oliver-Williams C, Kunutsor S, et al. "Association of Age at Onset of Menopause and Time Since Onset of Menopause With Cardiovascular Outcomes, Intermediate Vascular Traits, and All-Cause Mortality: A Systematic Review and Meta-analysis." *JAMA Cardiol*. 2016;1(7):767-776. doi:10.1001/jamacardiol.2016.2415
+[128] Rossouw JE, Prentice RL, Manson JE, et al. "Postmenopausal hormone therapy and risk of cardiovascular disease by age and years since menopause." *JAMA*. 2007;297(13):1465-1477. doi:10.1001/jama.297.13.1465
+[129] Manson JE, Allison MA, Rossouw JE, et al. "Estrogen therapy and coronary-artery calcification." *N Engl J Med*. 2007;356(25):2591-2602. doi:10.1056/NEJMoa071513
+[130] Hodis HN, Mack WJ. "Menopausal Hormone Replacement Therapy and Reduction of All-Cause Mortality and Cardiovascular Disease: It Is About Time and Timing." *Cancer J*. 2022;28(3):208-223. doi:10.1097/PPO.0000000000000591
+[202] Xia W, Khalil RA. "Hormone Replacement Therapy and Cardiovascular Health in Postmenopausal Women." *Int J Mol Sci*. 2025;26(11):5078. doi:10.3390/ijms26115078
+[244] Hodis HN, Mack WJ. "Menopausal Hormone Replacement Therapy and Reduction of All-Cause Mortality and Cardiovascular Disease: It's About Time and Timing." *Cancer J*. 2022;28(3):208-223.
+[277] D'Costa Z, Ramachandran HJ, Wang W, et al. "Cardiovascular Risk Associated with Menopause and Hormone Replacement Therapy." *Curr Atheroscler Rep*. 2025;27(2):14.
+[346] D'Costa Z, Spertus E, Hingorany S, et al. "Cardiovascular Risk Associated with Menopause and Menopause Hormone Therapy: A Review and Contemporary Approach to Risk Assessment." *Current Atherosclerosis Reports*. 2025;27(1):100. doi:10.1007/s11883-025-01343-6
+[347] Mishra T, Pasnoor DS, Gandhi M, et al. "Interplay of menopause, coronary artery calcium score and cardiovascular disease risk." *World Journal of Cardiology*. 2025;17(11):109627. doi:10.4330/wjc.v17.i11.109627
+[348] Dzaye O, Dudum R, Lahti S, et al. "Coronary Artery Calcium Staging to Guide Preventive Interventions: A Proposal and Call to Action." *JACC: Advances*. 2024;3(10):101287. doi:10.1016/j.jacadv.2024.101287
+[349] Gu Y, Han F, Xue M, et al. "The benefits and risks of menopause hormone therapy for the cardiovascular system in postmenopausal women: a systematic review and meta-analysis." *BMC Women's Health*. 2024;24:60. doi:10.1186/s12905-023-02788-0
+[350] MESA HRT by Race/Ethnicity. "Hormone Replacement Therapy and Cardiovascular Outcomes by Race and Ethnicity: MESA." *JACC: Advances*. 2026;5(2):102561. doi:10.1016/j.jacadv.2025.102561
+[351] Doma M, Loayza Pintado JJ, Atwal A, et al. "Efficacy of oral versus transdermal estrogen therapy on cardiovascular and lipid parameters among postmenopausal women." *Menopause*. 2026;33(2):242-250. doi:10.1097/GME.0000000000002637
+[352] Khan SS, Matsushita K, Sang Y, et al. "Development and Validation of the American Heart Association's PREVENT Equations." *Circulation*. 2024;149(6):e430-e450. doi:10.1161/CIRCULATIONAHA.123.067626
+[353] Corral P, Matta MG, Aguilar-Salinas C, et al. "Lipoprotein(a) throughout life in women." *American Journal of Preventive Cardiology*. 2024;20:100885. doi:10.1016/j.ajpc.2024.100885
+[354] MHT + Statin cohort. "Association of hormone therapy with cardiovascular events in females using statins for prevention." *Climacteric*. 2025;28(6). doi:10.1080/13697137.2025.2524171
+[355] Xia W, Khalil RA. "Hormone Replacement Therapy and Cardiovascular Health in Postmenopausal Women." *International Journal of Molecular Sciences*. 2025;26(11):5078. doi:10.3390/ijms26115078
+[356] Hodis HN, Mack WJ. *Cross-reference to Citation 244 for timing hypothesis review.* See also D'Costa (#346) for the four-tier implementation of timing-based prescribing.
+[136] Maki PM, Girard LM, Manson JE. "Menopausal hormone therapy and cognition." *BMJ*. 2019;364:l877. doi:10.1136/bmj.l877
+[137] Mosconi L, Berti V, Quinn C, et al. "Sex differences in Alzheimer risk: Brain imaging of endocrine vs chronologic aging." *Neurology*. 2017;89(13):1382-1390. doi:10.1212/WNL.0000000000004425
+[138] Brinton RD, Yao J, Yin F, Mack WJ, Cadenas E. "Perimenopause as a neurological transition state." *Nat Rev Endocrinol*. 2015;11(7):393-405. doi:10.1038/nrendo.2015.82
+[139] Savolainen-Peltonen H, Rahkola-Soisalo P, Hoti F, et al. "Use of postmenopausal hormone therapy and risk of Alzheimer's disease in Finland: nationwide case-control study." *BMJ*. 2019;364:l665. doi:10.1136/bmj.l665
+[140] Imtiaz B, Taipale H, Tanskanen A, et al. "Risk of Alzheimer's disease among users of postmenopausal hormone therapy: A nationwide case-control study." *Maturitas*. 2017;98:7-13. doi:10.1016/j.maturitas.2017.01.002
+[141] Whitmer RA, Quesenberry CP, Zhou J, Yaffe K. "Timing of hormone therapy and dementia: the critical window theory revisited." *Ann Neurol*. 2011;69(1):163-169. doi:10.1002/ana.22239
+[203] Barth C, Galea LAM, Jacobs EG, et al. "Menopausal hormone therapy and the female brain: Leveraging neuroimaging and prescription registry data from the UK Biobank cohort." *eLife*. 2025;13:e99538. doi:10.7554/eLife.99538
+[204] Cheng YJ, Lin CH, Lane HY. "From Menopause to Neurodegeneration—Molecular Basis and Potential Therapy." *Int J Mol Sci*. 2021;22(16):8654. doi:10.3390/ijms22168654
+[205] Suganya S, Ashok BS, Ajith TA. "A Recent Update on the Role of Estrogen and Progesterone in Alzheimer's Disease." *Cell Biochem Funct*. 2024;42(8):e70025. doi:10.1002/cbf.70025
+[206] Valera H, Chen A, Grive KJ. "The Hypothalamic-Pituitary-Ovarian Axis, Ovarian Disorders, and Brain Aging." *Endocrinology*. 2025;166(10). doi:10.1210/endocr/bqaf137
+[245] Song Y, et al. "Systematic review and meta-analysis of the effects of menopause hormone therapy on risk of Alzheimer's disease and dementia." *Front Aging Neurosci*. 2023;15:1260427.
+[270] Lancet Commission on Dementia and related disorders. "Menopause hormone therapy and risk of mild cognitive impairment and probable dementia." *Lancet Healthy Longevity*. 2025.
+[278] Shumaker SA, Legault C, Rapp SR, et al. "Estrogen plus progestin and the incidence of dementia and mild cognitive impairment in postmenopausal women: the Women's Health Initiative Memory Study: a randomized controlled trial." *JAMA*. 2003;289(20):2651-2662. doi:10.1001/jama.289.20.2651
+[279] Maki PM. "Hormone therapy, dementia, and cognition: the Women's Health Initiative 10 years on." *Climacteric*. 2012;15(3):256-262. doi:10.3109/13697137.2012.660613
+[357] Andy C, et al. "Effects of estrogen therapy on cognition in postmenopausal women: a meta-analysis of 34 RCTs." *Frontiers in Endocrinology*. 2024.
+[358] Kim/Yu. "Cognitive behavioral therapy for depression and sleep in climacteric women: a meta-analysis." 2024.
+[142] Webber L, Davies M, Anderson R, et al. "ESHRE Guideline: management of women with premature ovarian insufficiency." *Hum Reprod*. 2016;31(5):926-937. doi:10.1093/humrep/dew027
+[143] Shuster LT, Rhodes DJ, Gostout BS, Grossardt BR, Rocca WA. "Premature menopause or early menopause: long-term health consequences." *Maturitas*. 2010;65(2):161-166. doi:10.1016/j.maturitas.2009.08.003
+[144] Rocca WA, Grossardt BR, Shuster LT. "Oophorectomy, estrogen, and dementia: a 2014 update." *Mol Cell Endocrinol*. 2014;389(1-2):7-12. doi:10.1016/j.mce.2014.01.020
+[145] Faubion SS, Kuhle CL, Shuster LT, Rocca WA. "Long-term health consequences of premature or early menopause and considerations for management." *Climacteric*. 2015;18(4):483-491. doi:10.3109/13697137.2015.1020484
+[146] Sullivan SD, Sarrel PM, Nelson LM. "Hormone replacement therapy in young women with primary ovarian insufficiency and early menopause." *Fertil Steril*. 2016;106(7):1588-1599. doi:10.1016/j.fertnstert.2016.09.046
+[147] Panay N, Kalu E. "Management of premature ovarian failure." *Best Pract Res Clin Obstet Gynaecol*. 2009;23(1):27-44. doi:10.1016/j.bpobgyn.2008.10.006
+[268] ESHRE Guideline Group on POI. "ESHRE Guideline: Premature Ovarian Insufficiency." *Hum Reprod Open*. 2024 (updated).
+[148] Baker FC, de Zambotti M, Colrain IM, Bei B. "Sleep problems during the menopausal transition: prevalence, impact, and management challenges." *Nat Sci Sleep*. 2018;10:73-95. doi:10.2147/NSS.S125807
+[149] Joffe H, Massler A, Sharkey KM. "Evaluation and management of sleep disturbance during the menopause transition." *Semin Reprod Med*. 2010;28(5):404-421. doi:10.1055/s-0030-1262900
+[150] Polo-Kantola P. "Sleep problems in midlife and beyond." *Maturitas*. 2011;68(3):224-232. doi:10.1016/j.maturitas.2010.12.009
+[151] Cintron D, Lipford M, Engber J, et al. "Efficacy of menopausal hormone therapy on sleep quality: systematic review and meta-analysis." *Endocrine*. 2017;55(3):702-711. doi:10.1007/s12020-016-1072-9
+[207] Hatcher KM, Smith RL, Chiang C, et al. "Association of phthalate exposure and endogenous hormones with self-reported sleep disruptions: results from the Midlife Women's Health Study." *Menopause*. 2020;27(11):1251-1264. doi:10.1097/GME.0000000000001614
+[208] Hatcher KM, Smith RL, Chiang C, et al. "Nocturnal Hot Flashes, but Not Serum Hormone Concentrations, as a Predictor of Insomnia in Menopausal Women." *J Womens Health*. 2022;32(1):94-101. doi:10.1089/jwh.2021.0502
+[209] Morssinkhof MWL, van Wylick DW, Priester-Vink S, et al. "Associations between sex hormones, sleep problems and depression: A systematic review." *Neurosci Biobehav Rev*. 2020;118:669-680. doi:10.1016/j.neubiorev.2020.08.006
+[260] Perger E, Mattaliano P, Lombardi C. "Menopause and sleep apnea." *Maturitas*. 2019;124:35-38.
+[152] Greendale GA, Sternfeld B, Huang M, et al. "Changes in body composition and weight during the menopause transition." *JCI Insight*. 2019;4(5):e124865. doi:10.1172/jci.insight.124865
+[153] Fenton A. "Weight, Shape, and Body Composition Changes at Menopause." *J Midlife Health*. 2021;12(3):187-192. doi:10.4103/jmh.jmh_123_21
+[154] Marlatt KL, Pitynski-Miller DR, Gavin KM, et al. "Body composition and cardiometabolic health across the menopause transition." *Obesity*. 2022;30(1):14-27. doi:10.1002/oby.23289
+[155] Opoku AA, Patel S, Engmann O. "Obesity and menopause." *Best Pract Res Clin Obstet Gynaecol*. 2023;88:102348. doi:10.1016/j.bpobgyn.2023.102348
+[156] Wright VJ, Schwartzman JD, Itinoche R, et al. "The musculoskeletal syndrome of menopause." *Climacteric*. 2024;27(5):466-472. doi:10.1080/13697137.2024.2380363
+[157] Chlebowski RT, Cirillo DJ, Eaton CB, et al. "Estrogen alone and joint symptoms in the Women's Health Initiative randomized trial." *Menopause*. 2013;20(6):600-608. doi:10.1097/GME.0b013e31827426c2
+[158] Lu CB, Liu PF, Zhou YS, et al. "Musculoskeletal Pain During the Menopausal Transition: A Systematic Review and Meta-Analysis." *Neural Plast*. 2020;2020:8842110. doi:10.1155/2020/8842110
+[159] Wluka AE, Cicuttini FM, Spector TD. "Menopause, oestrogens and arthritis." *Maturitas*. 2000;35(3):183-199. doi:10.1016/S0378-5122(00)00118-3
+[160] Raine-Fenning NJ, Brincat MP, Muscat-Baron Y. "Skin aging and menopause: implications for treatment." *Am J Clin Dermatol*. 2003;4(6):371-378. doi:10.2165/00128071-200304060-00001
+[161] Stevenson S, Thornton J. "Effect of estrogens on skin aging and the potential role of SERMs." *Clin Interv Aging*. 2007;2(3):283-297. doi:10.2147/cia.s798
+[162] Wolff EF, Narayan D, Taylor HS. "Long-term effects of hormone therapy on skin rigidity and wrinkles." *Fertil Steril*. 2005;84(2):285-288. doi:10.1016/j.fertnstert.2004.12.062
+[163] Dutt P, Chaudhary S, Kumar P. "Oral Health and Menopause: A Comprehensive Review on Current Knowledge and Associated Dental Management." *Ann Med Health Sci Res*. 2013;3(3):320-323. doi:10.4103/2141-9248.117926
+[164] Palanisamy S, Kulkarni S, Engmann O. "The impact of estrogen on periodontal tissue integrity and inflammation." *Front Oral Health*. 2025;6:1542746. doi:10.3389/froh.2025.1542746
+[165] Depypere H, Timmerman D, Lopes P, et al. "Treatment of Menopausal Vasomotor Symptoms With Fezolinetant, a Neurokinin 3 Receptor Antagonist: A Phase 2a Trial." *J Clin Endocrinol Metab*. 2019;104(12):5893-5905. doi:10.1210/jc.2019-01214
+[166] U.S. Food and Drug Administration. "FDA Approves Novel Drug to Treat Moderate to Severe Hot Flashes Caused by Menopause." May 12, 2023.
+[167] Gompel A, Baber RJ, de Villiers TJ, et al. "Neurokinin 3 receptor antagonists for menopausal vasomotor symptoms." *Maturitas*. 2023;173:51-55. doi:10.1016/j.maturitas.2023.04.009
+[168] Anderson RA, Skorupskaite K, Sassarini J. "The neurokinin B pathway in the treatment of menopausal hot flushes." *Climacteric*. 2019;22(1):42-45. doi:10.1080/13697137.2018.1540564
+[169] Pant S. "FDA Approves Nonhormonal Treatment for Menopausal Vasomotor Symptoms." *JAMA*. 2025;333(5):369. doi:10.1001/jama.2024.27662
+[170] Genazzani AR, Pluchino N, Bernardi F, et al. "Beneficial effect of tibolone on mood, cognition, well-being, and sexuality in menopausal women." *Neuropsychiatr Dis Treat*. 2006;2(3):299-307. doi:10.2147/nedt.2006.2.3.299
+[171] Lello S, Capozzi A, Scambia G. "The Tissue-Selective Estrogen Complex (Bazedoxifene/Conjugated Estrogens) for the Treatment of Menopause." *Int J Endocrinol*. 2017;2017:5064725. doi:10.1155/2017/5064725
+[172] Panjari M, Davis SR. "DHEA for postmenopausal women: A review of the evidence." *Maturitas*. 2010;66(2):172-179. doi:10.1016/j.maturitas.2009.12.017
+[173] Fournier A, Berrino F, Clavel-Chapelon F. "Unequal risks for breast cancer associated with different hormone replacement therapies: results from the E3N cohort study." *Breast Cancer Res Treat*. 2008;107(1):103-111. doi:10.1007/s10549-007-9523-x
+[174] Mueck AO, Seeger H. "Use of dydrogesterone in hormone replacement therapy." *Maturitas*. 2009;65 Suppl 1:S51-S60. doi:10.1016/j.maturitas.2009.11.011
+[175] Vinogradova Y, Coupland C, Hippisley-Cox J. "Use of hormone replacement therapy and risk of breast cancer: nested case-control studies using the QResearch and CPRD databases." *BMJ*. 2020;371:m3873. doi:10.1136/bmj.m3873
+[176] Fitzpatrick LA, Pace C, Wiita B. "Comparison of regimens containing oral micronized progesterone or medroxyprogesterone acetate on quality of life in postmenopausal women: a cross-sectional survey." *J Womens Health Gend Based Med*. 2000;9(4):381-387. doi:10.1089/15246090050020691
+[359] Kagan R, Cano A, Nappi RE, et al. "Safety of Fezolinetant for Treatment of Moderate to Severe Vasomotor Symptoms Due to Menopause: Pooled Analysis of Three Randomized Phase 3 Studies." *Advances in Therapy*. 2025;42(2):1147-1164. doi:10.1007/s12325-024-03073-8
+[360] Shapiro CM, Wu X, Wang X, et al. "Effect of fezolinetant on patient-reported quality-of-life outcomes: Data from a phase 3b study (DAYLIGHT)." *Maturitas*. 2025;193:108159. doi:10.1016/j.maturitas.2024.108159
+[361] Iwai M, Nielsen J, Miyagawa M, et al. "In Vitro Evaluation of CYP-Mediated Metabolism of Fezolinetant and Pharmacokinetic Interaction Between Fezolinetant and Fluvoxamine." *Journal of Clinical Pharmacology*. 2025;65(4):508-519. doi:10.1002/jcph.6157
+[362] Pinkerton JV, Simon JA, Joffe H, et al. "Elinzanetant for the Treatment of Vasomotor Symptoms Associated With Menopause: OASIS 1 and 2 Randomized Clinical Trials." *JAMA*. 2024;332(16):1343-54. doi:10.1001/jama.2024.14618
+[363] Panay N, Joffe H, Maki PM, et al. "Elinzanetant for the Treatment of Vasomotor Symptoms Associated With Menopause: A Phase 3 Randomized Clinical Trial (OASIS-3)." *JAMA Internal Medicine*. 2025;185(11):1319-1327. doi:10.1001/jamainternmed.2025.4421
+[364] Lewis JH, Andrade RJ, Larrey D, et al. "Liver Safety of the Dual Neurokinin-1/-3 Receptor Antagonist Elinzanetant." *Drug Safety*. 2026. doi:10.1007/s40264-026-01663-9
+[365] de Oliveira HM, Diaz CAV, Barbosa LM, et al. "Efficacy and safety of fezolinetant and elinzanetant for vasomotor symptoms in postmenopausal women: A systematic review and meta-analysis." *Maturitas*. 2025;195:108220. doi:10.1016/j.maturitas.2025.108220
+[366] Menegaz de Almeida A, Oliveira P, Lopes L, et al. "Fezolinetant and Elinzanetant Therapy for Menopausal Women Experiencing Vasomotor Symptoms: A Systematic Review and Meta-analysis." *Obstetrics & Gynecology*. 2025;145(3):253-261. doi:10.1097/AOG.0000000000005812
+[367] Carson E, Vernon V, Cunningham L, Mathew S. "Cooling the flames: Navigating menopausal vasomotor symptoms with nonhormone medications." *American Journal of Health-System Pharmacy*. 2025;82(7):e332-e344. doi:10.1093/ajhp/zxae254
+[368] Network meta-analysis. "Systematic Review and Network Meta-Analysis: Non-Hormonal Agents for VMS." *Menopause*. 2024;31(1).
+[369] Iyen B, Coupland C, Bell BG, et al. "Risk of dementia associated with anticholinergic drugs for overactive bladder in adults aged 55 years and older." *BMJ Medicine*. 2024;3(1):e000799. doi:10.1136/bmjmed-2023-000799
+[370] Chancellor MB, Lucioni A, Staskin D. "Oxybutynin-associated Cognitive Impairment: Evidence and Implications for Overactive Bladder Treatment." *Urology*. 2024;186:123-129. doi:10.1016/j.urology.2023.11.033
+[371] Li Y, Chang J, Shi G, et al. "Effects of stellate ganglion block on perimenopausal hot flashes: a randomized controlled trial." *Frontiers in Endocrinology*. 2023;14:1293358. doi:10.3389/fendo.2023.1293358
+[372] Rukure H, Husted M. "Cognitive behavioural therapy for menopausal symptoms: a systematic review." *BMC Women's Health*. 2025;26(1):58. doi:10.1186/s12905-025-04142-y
+[373] Caria App. "Evaluating a Mobile Digital Therapeutic for Vasomotor and Behavioral Health Symptoms Among Women in Midlife: Randomized Controlled Trial." *JMIR mHealth and uHealth*. 2025.
+[374] Panay N, Simoncini T, Taziaux M, et al. "Estetrol for the treatment of moderate to severe vasomotor symptoms in postmenopausal women: The design of the E4COMFORT I and II trials." *Maturitas*. 2025;204:108781. doi:10.1016/j.maturitas.2025.108781
+[375] Stanczyk FZ, Yang JL, Coelingh Bennink HJT, et al. "Comparison of estrogens and selective estrogen receptor modulators (SERMs) used for menopausal hormone therapy." *Menopause*. 2025;32(8):730-757. doi:10.1097/GME.0000000000002547
+[193] Barrionuevo P, Kapoor E, Asi N, et al. "Efficacy of Pharmacological Therapies for the Prevention of Fractures in Postmenopausal Women: A Network Meta-Analysis." *J Clin Endocrinol Metab*. 2019;104(5):1623-1630. doi:10.1210/jc.2019-00192
+[194] Prior JC, Seifert-Klauss VR, Giustini D, et al. "Estrogen-progestin therapy causes a greater increase in spinal bone mineral density than estrogen therapy—a systematic review and meta-analysis of controlled trials with direct randomization." *J Musculoskelet Neuronal Interact*. 2017;17(3):146-154.
+[195] Rasul S, Mashayekhi Y, Javaid M, et al. "Hormonal Changes During Menopause and Their Impact on Bone Health: Insights from Orthopedic and Reproductive Medicine." *Cureus*. 2025;17(9):e93224. doi:10.7759/cureus.93224
+[196] Zuo H, Sun A, Gao L, et al. "Effect of Menopausal Hormone Therapy on Bone Mineral Density in Chinese Women: A 2-Year, Prospective, Open-Label, Randomized-Controlled Trial." *Med Sci Monit*. 2019;25:819-826. doi:10.12659/MSM.912166
+[197] Gnant M, Pfeiler G, Steger GG, et al. "Adjuvant denosumab in postmenopausal patients with hormone receptor-positive breast cancer (ABCSG-18): disease-free survival results from a randomised, double-blind, placebo-controlled, phase 3 trial." *Lancet Oncol*. 2019;20(3):339-351. doi:10.1016/S1470-2045(18)30862-3
+[240] Prior JC. "Progesterone for the prevention and treatment of osteoporosis in women." *Climacteric*. 2018;21(4):366-374. doi:10.1080/13697137.2018.1467400
+[241] Prior JC, Seifert-Klauss VR, Giustini D, et al. "Estrogen-progestin therapy causes a greater increase in spinal bone mineral density than estrogen therapy—a systematic review and meta-analysis of controlled trials with direct randomization." *J Musculoskelet Neuronal Interact*. 2017;17(3):146-154.
+[251] Gambacciani M, Levancini M. "Hormone replacement therapy and the prevention of postmenopausal osteoporosis." *Prz Menopauzalny*. 2014;13(4):213-220.
+[252] Lewiecki EM, et al. "Prevention and treatment of osteoporosis in women." *Climacteric*. 2023;26(1):15-22.
+[190] Santoro N. "Perimenopause: From Research to Practice." *J Womens Health*. 2016;25(4):332-339. doi:10.1089/jwh.2015.5556
+[191] Harlow SD, Gass M, Hall JE, et al. "Executive summary of the Stages of Reproductive Aging Workshop + 10: addressing the unfinished agenda of staging reproductive aging." *Menopause*. 2012;19(4):387-395. doi:10.1097/gme.0b013e31824d8f40
+[192] Prior JC. "Perimenopause: The Complex Endocrinology of the Menopausal Transition." *Endocr Rev*. 1998;19(4):397-428. doi:10.1210/edrv.19.4.0341
+[218] Prior JC. "Progesterone for Symptomatic Perimenopause Treatment—Progesterone politics, physiology and potential for perimenopause." *Facts, Views & Vision in ObGyn*. 2011;3(2):109-120. PMC3987489.
+[219] Prior JC. "The endocrinology of perimenopause: need for a paradigm shift." *Frontiers in Bioscience (Scholar Edition)*. 2011;3(2):474-486.
+[220] Prior JC. "Clearing confusion about perimenopause." *BC Medical Journal*. 2005;47(10):534-538.
+[221] Prior JC. "Progesterone or progestin as menopausal ovarian hormone therapy: recent physiology-based clinical evidence." *Current Opinion in Endocrinology, Diabetes and Obesity*. 2015;22(6):495-501. doi:10.1097/MED.0000000000000205
+[222] Prior JC. "Perimenopause: The Complex Endocrinology of the Menopausal Transition." *Endocrine Reviews*. 1998;19(4):397-428. doi:10.1210/edrv.19.4.0341
+[223] Prior JC. "Estrogen's Storm Season: Stories of Perimenopause." Centre for Menstrual Cycle and Ovulation Research, University of British Columbia. 2005.
+[224] Prior JC. "Progesterone for the prevention and treatment of osteoporosis in women." *Climacteric*. 2018;21(4):366-374. doi:10.1080/13697137.2018.1467400
+[225] Prior JC, Seifert-Klauss VR, Giustini D, et al. "Estrogen-progestin therapy causes a greater increase in spinal bone mineral density than estrogen therapy—a systematic review and meta-analysis of controlled trials with direct randomization." *J Musculoskelet Neuronal Interact*. 2017;17(3):146-154.
+[226] CeMCOR. "Cyclic Progesterone Therapy." Centre for Menstrual Cycle and Ovulation Research, University of British Columbia. https://www.cemcor.ubc.ca/resources/cyclic-progesterone-therapy
+[227] CeMCOR. "Progesterone Therapy for Menopause." Centre for Menstrual Cycle and Ovulation Research, University of British Columbia. https://www.cemcor.ubc.ca/resources/progesterone-therapy-menopause
+[228] Gordon JL, Sander B. "The role of estradiol fluctuation in the pathophysiology of perimenopausal depression: A hypothesis paper." *Psychoneuroendocrinology*. 2021;133:105418. doi:10.1016/j.pne.2021.105418
+[229] Gordon JL, Rubinow DR, Eisenlohr-Moul TA, et al. "The Effect of Perimenopausal Transdermal Estradiol and Micronized Progesterone on Markers of Risk for Arterial Disease." *J Clin Endocrinol Metab*. 2019;105(5):e2050-e2060. doi:10.1210/clinem/dgz262
+[230] Soares CN, Almeida OP, Joffe H, Cohen LS. "Efficacy of estradiol for the treatment of depressive disorders in perimenopausal women: a double-blind, randomized, placebo-controlled trial." *Arch Gen Psychiatry*. 2001;58(6):529-534. doi:10.1001/archpsyc.58.6.529
+[231] Rubinow DR, Johnson SL, Schmidt PJ, Girdler S, Gaynes B. "Efficacy of estradiol in perimenopausal depression: so much promise and so few answers." *Depress Anxiety*. 2015;32(8):539-549. doi:10.1002/da.22391
+[232] Santoro N, Rosenberg J, Adel T, Skurnick JH. "Characterization of reproductive hormonal dynamics in the perimenopause." *J Clin Endocrinol Metab*. 1996;81(4):1495-1501. doi:10.1210/jcem.81.4.8636357
+[233] Casper RF, Dodin S, Reid RL, et al. "The effect of 20 µg ethinyl estradiol/1 mg norethindrone acetate (Minestrin), a low-dose oral contraceptive, on vaginal bleeding patterns, hot flashes, and quality of life in symptomatic perimenopausal women." *Menopause*. 1997;4(3):139-147.
+[234] Kaunitz AM. "Oral contraceptive use in perimenopause." *Am J Obstet Gynecol*. 2001;185(2 Suppl):S32-S37. doi:10.1067/mob.2001.117416
+[235] Harlow SD, Gass M, Hall JE, et al. "Executive Summary of STRAW+10: Addressing the Unfinished Agenda of Staging Reproductive Aging." *Climacteric*. 2012;15(2):105-114. doi:10.3109/13697137.2012.657039
+[236] Faubion SS, Kuhle CL, Shuster LT, Rocca WA. "The 2022 hormone therapy position statement of The North American Menopause Society." *Menopause*. 2022;29(7):767-794. doi:10.1097/GME.0000000000002028
+[237] Prior JC. "Progesterone for Symptomatic Perimenopause Treatment—Progesterone politics, physiology and potential for perimenopause." *Facts, Views & Vision in ObGyn*. 2011;3(2):109-120. PMC3987489.
+[238] Prior JC. "The endocrinology of perimenopause: need for a paradigm shift." *Frontiers in Bioscience (Scholar Edition)*. 2011;3(2):474-486.
+[239] Prior JC. "Clearing confusion about perimenopause." *BC Medical Journal*. 2005;47(10):534-538.
+[261] Simon JA, Robinson DE, Andrews MC, et al. "The absorption of oral micronized progesterone: the effect of food, dose proportionality, and comparison with intramuscular progesterone." *Fertil Steril*. 1993;60(1):26-33.
+[262] Prior JC, Hitchcock CL, Yuen BH, et al. "Oral micronized progesterone (300 mg/d) for perimenopausal vasomotor symptoms and sleep disturbance: a phase III randomized controlled trial." *Sci Rep*. 2023;13:9389.
+[280] Frezza M, di Padova C, Pozzato G, et al. "High blood alcohol levels in women: the role of decreased gastric alcohol dehydrogenase activity and first-pass metabolism." *N Engl J Med*. 1990;322(2):95-99. doi:10.1056/NEJM199001113220205
+[281] Nielsen NR, Gronbaek M. "Interactions between intakes of alcohol and postmenopausal hormones on risk of breast cancer." *Int J Cancer*. 2008;122(5):1109-1113. doi:10.1002/ijc.23235
+[376] Purohit V. "Moderate alcohol consumption and estrogen levels in postmenopausal women: a review." *Alcoholism, Clinical and Experimental Research*. 1998;22(5):994-997. doi:10.1111/j.1530-0277.1998.tb03694.x
+[377] Xiao L, Yang S, Song Y, Xiao J. "Sex Difference of Alcoholic Hypertension: Mechanism and Targeted Therapy." *Current Hypertension Reports*. 2025;27(1):17. doi:10.1007/s11906-025-01334-7
+[378] Mostofsky E, Buring JE, Come SE, et al. "Effect of daily alcohol intake on sex hormone levels among postmenopausal breast cancer survivors on aromatase inhibitor therapy." *Breast Cancer Research*. 2025;27:5. doi:10.1186/s13058-024-01940-4
+[379] Shihab S, Islam N, Kanani D, et al. "Alcohol use at midlife and in menopause: a narrative review." *Maturitas*. 2024;189:108092. doi:10.1016/j.maturitas.2024.108092
+[380] Kwon R, Chang Y, Kim Y, et al. "Alcohol Consumption Patterns and Risk of Early-Onset Vasomotor Symptoms in Premenopausal Women." *Nutrients*. 2022;14(11):2276. doi:10.3390/nu14112276
+[381] Knittel AK, Bullington BW, Edmonds A, et al. "Substance use and menopausal symptoms among people with and without HIV in the US, 2008-2020." *Menopause*. 2024;31(10):911-920. doi:10.1097/GME.0000000000002405
+[382] Namara GT, Woldeyes BS, Irenso DY, et al. "Severe menopausal symptoms and associated factors among post-menopausal women in Ambo town, West Shewa, Ethiopia." *BMC Women's Health*. 2025;25(1):130. doi:10.1186/s12905-025-03662-x
+[383] Schilling C, Gallicchio L, Miller SR, et al. "Current alcohol use, hormone levels, and hot flashes in midlife women." *Fertility and Sterility*. 2007;87(6):1483-1486. doi:10.1016/j.fertnstert.2006.11.033
+[384] Ziv-Gal A, Smith RL, Gallicchio L, et al. "The Midlife Women's Health Study." *Women's Midlife Health*. 2017;3:4. doi:10.1186/s40695-017-0024-8
+[385] Kennard A, Lindo FM, Ring M, et al. "Lifestyle Medicine and Vasomotor Symptoms: An Analytic Review." *American Journal of Lifestyle Medicine*. 2024;15598276241232359. doi:10.1177/15598276241232359
+[386] Godos J, Giampieri F, Chisari E, et al. "Alcohol Consumption, Bone Mineral Density, and Risk of Osteoporotic Fractures: A Dose-Response Meta-Analysis." *International Journal of Environmental Research and Public Health*. 2022;19(3):1515. doi:10.3390/ijerph19031515
+[387] Jang HD, Hong JY, Han K, et al. "Relationship between bone mineral density and alcohol intake." *PLoS One*. 2017;12(6):e0180132. doi:10.1371/journal.pone.0180132
+[388] Goodman MP. "Are all estrogens created equal? A review of oral vs. transdermal therapy." *Journal of Women's Health*. 2012;21(2):161-169. doi:10.1089/jwh.2011.2839
+[389] Ansbacher R. "The pharmacokinetics and efficacy of different estrogens are not equivalent." *American Journal of Obstetrics and Gynecology*. 2001;184(3):255-263. doi:10.1067/mob.2001.109656
+[390] Sathian B, Iqbal J, Ali SM. "Reconsidering Sex-Specific Alcohol Guidelines for Atrial Fibrillation Prevention." *Journal of Arrhythmia*. 2025;41(5):e70184. doi:10.1002/joa3.70184
+[82] Merkatz RB, Temple R, Sobel S, Feiden K, Kessler DA. "Women in clinical trials of new drugs. A change in Food and Drug Administration policy." *N Engl J Med*. 1993;329(4):292-296. doi:10.1056/NEJM199307223290429
+[83] Liu KA, Mager NA. "Women's involvement in clinical trials: historical perspective and future implications." *Pharm Pract (Granada)*. 2016;14(1):708. doi:10.18549/PharmPract.2016.01.708
+[84] Pinn VW. "Sex and gender factors in medical studies: implications for health and clinical practice." *JAMA*. 2003;289(4):397-400. doi:10.1001/jama.289.4.397
+[85] Schiebinger L. "Women's health and clinical trials." *J Clin Invest*. 2003;112(7):973-977. doi:10.1172/JCI19993
+[86] Holdcroft A. "Gender bias in research: how does it affect evidence based medicine?" *J R Soc Med*. 2007;100(1):2-3. doi:10.1177/014107680710000102
+[87] Mazure CM, Jones DP. "Twenty years and still counting: including women as participants and studying sex and gender in biomedical research." *BMC Womens Health*. 2015;15:94. doi:10.1186/s12905-015-0251-9
+[88] Beery AK, Zucker I. "Sex bias in neuroscience and biomedical research." *Neurosci Biobehav Rev*. 2011;35(3):565-572. doi:10.1016/j.neubiorev.2010.07.002
+[89] Mirin AA. "Gender Disparity in the Funding of Diseases by the U.S. National Institutes of Health." *J Womens Health*. 2021;30(7):956-963. doi:10.1089/jwh.2020.8682
+[90] Dusenbery M. "Doing Harm: The Truth About How Bad Medicine and Lazy Science Leave Women Dismissed, Misdiagnosed, and Sick." HarperOne, 2018.
+[91] Carcel C, Woodward M, Balicki G, et al. "The Global Burden of Disease and the Gender Health Gap." *Lancet*. 2024;403(10417):P23-24. doi:10.1016/S0140-6736(23)02763-9
+[92] Holdcroft A. "Integrating the dimensions of sex and gender into basic life sciences research: methodologic and ethical issues." *Gend Med*. 2007;4 Suppl B:S64-74. doi:10.1016/s1550-8579(07)80048-9
+[93] Putting gender on the agenda. *Nature*. 2010;465(7299):665. doi:10.1038/465665a
+[94] World Health Organization. "World Health Statistics 2023: Monitoring health for the SDGs." WHO, 2023.
+[95] Arias E, Xu J. "United States Life Tables, 2020." *Natl Vital Stat Rep*. 2022;71(1):1-64.
+[96] Kontis V, Bennett JE, Mathers CD, Li G, Foreman K, Ezzati M. "Future life expectancy in 35 industrialised countries: projections with a Bayesian model ensemble." *Lancet*. 2017;389(10076):1323-1335. doi:10.1016/S0140-6736(16)32381-9
+[97] Gold EB. "The timing of the age at which natural menopause occurs." *Obstet Gynecol Clin North Am*. 2011;38(3):425-440. doi:10.1016/j.ogc.2011.05.002
+[98] Mishra GD, Pandeya N, Dobson AJ, et al. "Early menarche, nulliparity and the risk for premature and early natural menopause." *Hum Reprod*. 2017;32(3):679-686. doi:10.1093/humrep/dew350
+[99] Santoro N, Epperson CN, Mathews SB. "Menopausal Symptoms and Their Management." *Endocrinol Metab Clin North Am*. 2015;44(3):497-515. doi:10.1016/j.ecl.2015.05.001
+[100] Avis NE, Colvin A, Bromberger JT, et al. "Change in health-related quality of life over the menopausal transition in a multiethnic cohort of middle-aged women: Study of Women's Health Across the Nation." *Menopause*. 2009;16(5):860-869. doi:10.1097/gme.0b013e3181a3cdaf
+[101] Blumel JE, Chedraui P, Baron G, et al. "A large multinational study of vasomotor symptom prevalence, duration, and impact on quality of life in middle-aged women." *Menopause*. 2011;18(7):778-785. doi:10.1097/gme.0b013e318207851d
+[102] Whiteley J, DiBonaventura M, Wagner JS, Alvir J, Shah S. "The impact of menopausal symptoms on quality of life, productivity, and economic outcomes." *J Womens Health*. 2013;22(11):983-990. doi:10.1089/jwh.2012.3719
+[109] Gunter J. "The Menopause Manifesto: Own Your Health with Facts and Feminism." Citadel Press, 2021.
+[110] Newson L. "Preparing for the Perimenopause and Menopause." Penguin Life, 2021.
+[111] Mosconi L. "The XX Brain: The Groundbreaking Science Empowering Women to Maximize Cognitive Health and Prevent Alzheimer's Disease." Avery, 2020.
+[112] Prior JC. "Estrogen's Storm Season: Stories of Perimenopause." Centre for Menstrual Cycle and Ovulation Research, 2005.
+[113] Bluming AZ, Tavris C. "Estrogen Matters: Why Taking Hormones in Menopause Can Improve Women's Well-Being and Lengthen Their Lives." Little, Brown Spark, 2018.
+[114] Northrup C. "The Wisdom of Menopause: Creating Physical and Emotional Health During the Change." Bantam, 2012 (Revised Edition).
+[115] Faubion SS. "The Menopause Solution: A Doctor's Guide to Relieving Hot Flashes, Enjoying Better Sex, Sleeping Well, Controlling Your Weight, and Being Happy!" Mayo Clinic Press, 2016.
+[116] Streicher L. "Hot Flash Hell: A Gynecologist's Guide to Turning Down the Heat." Dey Street Books, 2021.
+[117] Grand View Research. "Menopause Market Size, Share & Trends Analysis Report." 2023.
+[118] McKinsey & Company. "The Dawn of the FemTech Revolution." 2022.
+[119] Frost & Sullivan. "Global Menopause Treatment Market." 2021.
+[120] The Menopause Society (formerly NAMS). "NAMS Certified Menopause Practitioner (NCMP) Program." 2024.
+[121] British Menopause Society. "BMS Education and Training." 2024.
+[122] International Menopause Society. "IMS Menopause Essentials Course." 2024.
+[177] Marjoribanks J, Farquhar C, Roberts H, et al. "Long-term hormone therapy for perimenopausal and postmenopausal women." *Cochrane Database Syst Rev*. 2017;1(1):CD004143. doi:10.1002/14651858.CD004143.pub5
+[178] Boardman HMP, Hartley L, Eisinga A, et al. "Hormone therapy for preventing cardiovascular disease in post-menopausal women." *Cochrane Database Syst Rev*. 2015;3:CD002229. doi:10.1002/14651858.CD002229.pub4
+[179] Kim D, Bae S, Cho S, et al. "Hormone therapy in postmenopausal women and risk of endometrial hyperplasia and cancer." *Cochrane Database Syst Rev*. 2025;10:CD000402. doi:10.1002/14651858.CD000402.pub5
+[180] Kongnyuy EJ, Norman RJ, Flight IHK, Rees MC. "Oestrogen and progestogen hormone replacement therapy for peri-menopausal and post-menopausal women: weight and body fat distribution." *Cochrane Database Syst Rev*. 1999;(3):CD001018. doi:10.1002/14651858.CD001018
+[186] National Academies of Sciences, Engineering, and Medicine. "The Clinical Utility of Compounded Bioidentical Hormone Therapy: A Review of Safety, Effectiveness, and Use." Washington, DC: The National Academies Press. 2020. doi:10.17226/25791
+[187] American College of Obstetricians and Gynecologists. "Clinical Consensus: Compounded Bioidentical Menopausal Hormone Therapy." *Obstet Gynecol*. 2023;142(5):1241-1252. doi:10.1097/AOG.0000000000005393
+[188] Santoro N, Braunstein GD, Butts CL, et al. "Compounded bioidentical hormones in endocrinology practice: an Endocrine Society scientific statement." *J Clin Endocrinol Metab*. 2016;101(4):1318-1343. doi:10.1210/jc.2016-1271
+[189] Newson L. "The dangers of compounded bioidentical hormone replacement therapy." *Br J Gen Pract*. 2019;69(688):540-541. doi:10.3399/bjgp19X706169
+[242] Glynne S, et al. "The range and variation in serum estradiol concentration in perimenopausal and postmenopausal women treated with transdermal estradiol in a real-world setting: a cross-sectional study." *Menopause*. 2024.
+[243] Folkerd E, et al. "Serum estradiol levels in postmenopausal women." *Cancer Epidemiol Biomarkers Prev*. 2020.
+[246] UVA Health/Flo App Study. "Perimenopause symptoms common in women as young as 30." University of Virginia Health. 2025.
+[250] Maclennan A, et al. "Oral oestrogen replacement therapy versus placebo for hot flushes." *Cochrane Database Syst Rev*. 2001.
